@@ -2,9 +2,14 @@ To-do list:
 
 1. Make the code dynamic:
     Find a way to make the code read an external file, with video links from YouTube for download, and download then all.
+    DONE!
 
 2. Change the directory of the downloaded videos:
     Find a way to make the code download the videos wherever I want on the computer.
+    DONE!
 
 3. Make this code an executable:
     Find a way to make this code an .exe that will run on any computer.
+
+4. Develop an interface:
+    Develop a user-friendly interface.
